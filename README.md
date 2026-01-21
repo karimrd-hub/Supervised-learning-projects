@@ -1,6 +1,9 @@
 ﻿# Heart disease prediction model
 
-Welcome to this project! Inside, you'll find a complete supervised learning workflow in the Heart_Disease_Prediction_Model.ipynb notebook. This notebook guides you through all the key steps—from data loading and preprocessing to model training and evaluation—providing a practical, hands-on example of building a machine learning model for heart disease prediction.
+A complete supervised learning workflow in the Heart_Disease_Prediction_Model.ipynb notebook. This notebook guides you through all the key steps—from data loading and preprocessing to model training and evaluation—providing a practical, hands-on example of building a machine learning model for heart disease prediction.
+
+## Development Period
+**August 2024**
 
 ## Main Features
 
@@ -39,3 +42,4 @@ Welcome to this project! Inside, you'll find a complete supervised learning work
 - Python 3.x
 - Jupyter Notebook
 - Common ML libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+
